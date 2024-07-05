@@ -24,7 +24,7 @@
   "dependencies": {
     "debug": "^2.6.8",
     "domready": "^1.0.8",
-    "random-number": "^0.0.7",
+    "random-number": "^0.0.9",
     "yaeti": "^0.0.6"
   },
   "devDependencies": {
